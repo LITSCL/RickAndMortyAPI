@@ -1,0 +1,451 @@
+[{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856665"
+  },
+  "nombre": "Rick Sanchez",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Rick_Sanchez.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856666"
+  },
+  "nombre": "Morty Smith",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Morty_Smith.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856667"
+  },
+  "nombre": "Summer Smith",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Femenino",
+  "imagen": "http://localhost:2900/resources/Summer_Smith.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856668"
+  },
+  "nombre": "Beth Smith",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Femenino",
+  "imagen": "http://localhost:2900/resources/Beth_Smith.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856669"
+  },
+  "nombre": "Jerry Smith",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Jerry_Smith.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85666a"
+  },
+  "nombre": "Abadango Cluster Princess",
+  "estado": "Vivo",
+  "especie": "Alien",
+  "genero": "Femenino",
+  "imagen": "http://localhost:2900/resources/Abadango_Cluster_Princess.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85666b"
+  },
+  "nombre": "Abradolf Lincler",
+  "estado": "Desconocido",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Abradolf_Lincler.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85666c"
+  },
+  "nombre": "Adjudicator Rick",
+  "estado": "Muerto",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Adjudicator_Rick.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85666d"
+  },
+  "nombre": "Agency Director",
+  "estado": "Muerto",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Agency_Director.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85666e"
+  },
+  "nombre": "Alan Rails",
+  "estado": "Muerto",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Alan_Rails.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85666f"
+  },
+  "nombre": "Albert Einstein",
+  "estado": "Muerto",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Albert_Einstein.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856670"
+  },
+  "nombre": "Alexander",
+  "estado": "Muerto",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Alexander.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856671"
+  },
+  "nombre": "Alien Googah",
+  "estado": "Desconocido",
+  "especie": "Alien",
+  "genero": "Desconocido",
+  "imagen": "http://localhost:2900/resources/Alien_Googah.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856672"
+  },
+  "nombre": "Alien Morty",
+  "estado": "Desconocido",
+  "especie": "Alien",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Alien_Morty.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856673"
+  },
+  "nombre": "Alien Rick",
+  "estado": "Desconocido",
+  "especie": "Alien",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Alien_Rick.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856674"
+  },
+  "nombre": "Amish Cyborg",
+  "estado": "Muerto",
+  "especie": "Alien",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Amish_Cyborg.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856675"
+  },
+  "nombre": "Annie",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Femenino",
+  "imagen": "http://localhost:2900/resources/Annie.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856676"
+  },
+  "nombre": "Antenna Morty",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Antenna_Morty.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856677"
+  },
+  "nombre": "Antenna Rick",
+  "estado": "Desconocido",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Antenna_Rick.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856678"
+  },
+  "nombre": "Baby Wizard",
+  "estado": "Muerto",
+  "especie": "Alien",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Baby_Wizard.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856679"
+  },
+  "nombre": "Beth's Mytholog",
+  "estado": "Muerto",
+  "especie": "Criatura Mitologica",
+  "genero": "Femenino",
+  "imagen": "http://localhost:2900/resources/Beth's_Mytholog.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85667a"
+  },
+  "nombre": "Big Boobed Waitress",
+  "estado": "Vivo",
+  "especie": "Criatura Mitologica",
+  "genero": "Femenino",
+  "imagen": "http://localhost:2900/resources/Big_Boobed_Waitress.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85667b"
+  },
+  "nombre": "Bill",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Bill.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85667c"
+  },
+  "nombre": "Birdperson",
+  "estado": "Vivo",
+  "especie": "Alien",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Birdperson.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85667d"
+  },
+  "nombre": "Calypso",
+  "estado": "Muerto",
+  "especie": "Humano",
+  "genero": "Femenino",
+  "imagen": "http://localhost:2900/resources/Calypso.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85667e"
+  },
+  "nombre": "Canklanker Thom",
+  "estado": "Muerto",
+  "especie": "Alien",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Canklanker_Thom.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85667f"
+  },
+  "nombre": "Centaur",
+  "estado": "Vivo",
+  "especie": "Criatura Mitologica",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Centaur.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856680"
+  },
+  "nombre": "Chris",
+  "estado": "Vivo",
+  "especie": "Humanoide",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Chris.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856681"
+  },
+  "nombre": "Concerto",
+  "estado": "Muerto",
+  "especie": "Humanoide",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Concerto.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856682"
+  },
+  "nombre": "Bubonic Plague",
+  "estado": "Muerto",
+  "especie": "Enfermedad",
+  "genero": "Desconocido",
+  "imagen": "http://localhost:2900/resources/Bubonic_Plague.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856683"
+  },
+  "nombre": "Lady Katana",
+  "estado": "Muerto",
+  "especie": "Humanoide",
+  "genero": "Femenino",
+  "imagen": "http://localhost:2900/resources/Lady_Katana.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856684"
+  },
+  "nombre": "Larva Alien",
+  "estado": "Vivo",
+  "especie": "Alien",
+  "genero": "Desconocido",
+  "imagen": "http://localhost:2900/resources/Larva_Alien.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856685"
+  },
+  "nombre": "Leonard Smith",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Leonard_Smith.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856686"
+  },
+  "nombre": "Lighthouse Keeper",
+  "estado": "Muerto",
+  "especie": "Alien",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Lighthouse_Keeper.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856687"
+  },
+  "nombre": "Lil B",
+  "estado": "Muerto",
+  "especie": "Alien",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Lil_B.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856688"
+  },
+  "nombre": "Lisa",
+  "estado": "Muerto",
+  "especie": "Alien",
+  "genero": "Femenino",
+  "imagen": "http://localhost:2900/resources/Lisa.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856689"
+  },
+  "nombre": "Little Dipper",
+  "estado": "Vivo",
+  "especie": "Humanoide",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Little_Dipper.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85668a"
+  },
+  "nombre": "Lizard Morty",
+  "estado": "Vivo",
+  "especie": "Humanoide",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Lizard_Morty.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85668b"
+  },
+  "nombre": "Loggins",
+  "estado": "Vivo",
+  "especie": "Alien",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Loggins.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85668c"
+  },
+  "nombre": "Logic",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Logic.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85668d"
+  },
+  "nombre": "Prince Nebulon",
+  "estado": "Muerto",
+  "especie": "Alien",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Prince_Nebulon.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85668e"
+  },
+  "nombre": "Nancy",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Femenino",
+  "imagen": "http://localhost:2900/resources/Nancy.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a85668f"
+  },
+  "nombre": "Numbericon",
+  "estado": "Desconocido",
+  "especie": "Alien",
+  "genero": "Desconocido",
+  "imagen": "http://localhost:2900/resources/Numbericon.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856690"
+  },
+  "nombre": "Octopus Man",
+  "estado": "Vivo",
+  "especie": "Humanoide",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Octopus_Man.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856691"
+  },
+  "nombre": "Orthodox Jew",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Orthodox_Jew.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856692"
+  },
+  "nombre": "Pat Gueterman",
+  "estado": "Muerto",
+  "especie": "Robot",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Pat_Gueterman.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856693"
+  },
+  "nombre": "Paul Fleishman",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Paul_Fleishman.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856694"
+  },
+  "nombre": "Pawnshop Clerk",
+  "estado": "Vivo",
+  "especie": "Alien",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Pawnshop_Clerk.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856695"
+  },
+  "nombre": "Pencilvester",
+  "estado": "Muerto",
+  "especie": "Alien",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Pencilvester.png"
+},{
+  "_id": {
+    "$oid": "642a9d091db5a1c15a856696"
+  },
+  "nombre": "Phillip Jacobs",
+  "estado": "Vivo",
+  "especie": "Humano",
+  "genero": "Masculino",
+  "imagen": "http://localhost:2900/resources/Phillip_Jacobs.png"
+}]
